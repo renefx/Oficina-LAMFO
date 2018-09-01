@@ -1,2 +1,4 @@
 alterei primeiro
 testar merge conflict
+
+novo commit
